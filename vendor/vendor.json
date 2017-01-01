@@ -1,0 +1,79 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "GeZm7GkgKOZconBw2eovjMfxuEI=",
+			"path": "github.com/Philipp15b/go-steam",
+			"revision": "e0f3bb9566e3e26411c596842288faa371e45cec",
+			"revisionTime": "2016-10-20T16:19:27Z"
+		},
+		{
+			"checksumSHA1": "gyxA1U42VAM0dX0pATKp6yZjBPg=",
+			"path": "github.com/Philipp15b/go-steam/cryptoutil",
+			"revision": "e0f3bb9566e3e26411c596842288faa371e45cec",
+			"revisionTime": "2016-10-20T16:19:27Z"
+		},
+		{
+			"checksumSHA1": "2/pd+Ahn8uBwMIAUZ9At+K89z+o=",
+			"path": "github.com/Philipp15b/go-steam/netutil",
+			"revision": "e0f3bb9566e3e26411c596842288faa371e45cec",
+			"revisionTime": "2016-10-20T16:19:27Z"
+		},
+		{
+			"checksumSHA1": "ir6DOuNS1XH/TpJoStNaYpSPp+0=",
+			"path": "github.com/Philipp15b/go-steam/protocol",
+			"revision": "e0f3bb9566e3e26411c596842288faa371e45cec",
+			"revisionTime": "2016-10-20T16:19:27Z"
+		},
+		{
+			"checksumSHA1": "1FKXfHjy6JTorZ4BBdKqyxqS0UY=",
+			"path": "github.com/Philipp15b/go-steam/protocol/gamecoordinator",
+			"revision": "e0f3bb9566e3e26411c596842288faa371e45cec",
+			"revisionTime": "2016-10-20T16:19:27Z"
+		},
+		{
+			"checksumSHA1": "+I0oGaIO+pTQhk9qL2rrT2Al3pg=",
+			"path": "github.com/Philipp15b/go-steam/protocol/protobuf",
+			"revision": "e0f3bb9566e3e26411c596842288faa371e45cec",
+			"revisionTime": "2016-10-20T16:19:27Z"
+		},
+		{
+			"checksumSHA1": "feTogYWopdNWqqQ6qWsaN1KlMgg=",
+			"path": "github.com/Philipp15b/go-steam/protocol/steamlang",
+			"revision": "e0f3bb9566e3e26411c596842288faa371e45cec",
+			"revisionTime": "2016-10-20T16:19:27Z"
+		},
+		{
+			"checksumSHA1": "up2B64zzB41fIaHdIK2b5ksHG14=",
+			"path": "github.com/Philipp15b/go-steam/rwu",
+			"revision": "e0f3bb9566e3e26411c596842288faa371e45cec",
+			"revisionTime": "2016-10-20T16:19:27Z"
+		},
+		{
+			"checksumSHA1": "Cmb4A2rIqRVSPdCg8M5jlCYKhR8=",
+			"path": "github.com/Philipp15b/go-steam/socialcache",
+			"revision": "e0f3bb9566e3e26411c596842288faa371e45cec",
+			"revisionTime": "2016-10-20T16:19:27Z"
+		},
+		{
+			"checksumSHA1": "WgS5umsUQh+0ud+vn5W5WMnBnKQ=",
+			"path": "github.com/Philipp15b/go-steam/steamid",
+			"revision": "e0f3bb9566e3e26411c596842288faa371e45cec",
+			"revisionTime": "2016-10-20T16:19:27Z"
+		},
+		{
+			"checksumSHA1": "kBeNcaKk56FguvPSUCEaH6AxpRc=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "8ee79997227bf9b34611aee7946ae64735e6fd93",
+			"revisionTime": "2016-11-17T03:31:26Z"
+		},
+		{
+			"checksumSHA1": "AjyXQ5eohrCPS/jSWZFPn5E8wnQ=",
+			"path": "github.com/golang/protobuf/protoc-gen-go/descriptor",
+			"revision": "8ee79997227bf9b34611aee7946ae64735e6fd93",
+			"revisionTime": "2016-11-17T03:31:26Z"
+		}
+	],
+	"rootPath": "github.com/samcday/hipchatcsgobot"
+}
